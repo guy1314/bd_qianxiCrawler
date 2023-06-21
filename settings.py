@@ -13,7 +13,7 @@ PROXY_API_HOST = ""
 
 
 scale = 'city'
-city = '广州市'
+city = '沈阳市'
 direction = 'move_out'
 date = '20230325'
 FILE_ROOT_PATH = r'./data'
