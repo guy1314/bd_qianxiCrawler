@@ -14,7 +14,7 @@ import shutil
 
 
 def crawl(scale):
-    if scale == 'city':
+    if scale == '210100':
         try:
             city_date_curve_rank = crawl_cityrank(city, scale, direction, date)
             city_history_curve = crawl_historycurve(city, scale, direction)
